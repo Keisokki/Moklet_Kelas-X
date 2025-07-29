@@ -1,0 +1,81 @@
+/*CSS Text*/
+.maroon{
+    color: maroon;
+}
+.navy{
+    color: navy;
+}
+.indigo{
+    color: indigo;
+}
+.spacing{
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 20px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.paragraf{
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+ul{
+    list-style-type: circle;
+}
+li{
+    font-family: 'Courier New';
+    font-size: 15px;
+}
+/*CSS Border*/
+.btn-red{
+    padding: 10px;
+    background: #fc0202;
+    color: #fff;
+}
+.btn-blue{
+    padding: 10px;
+    background: #02496d;
+    color: #fff;
+}
+.btn-green{
+    padding: 10px;
+    background: #338401;
+    color: #fff;
+}
+.solid{
+    border-style: solid;
+    border-width: 4px;
+    border-color: #000;
+}
+.dotted{
+    border-style: dotted;
+    border-width: 4px;
+    border-color: #000;
+}
+.double{
+    border-style: double;
+    border-width: 4px;
+    border-color: #000;
+}
+.ridge{
+    border-style: ridge;
+    border-width: 4px;
+}
+.inset{
+    border-style: inset;
+    border-width: 4px;
+}
+.outset{
+    border-style: outset;
+    border-width: 4px;
+}
+.round{
+    border-radius: 20px;
+}

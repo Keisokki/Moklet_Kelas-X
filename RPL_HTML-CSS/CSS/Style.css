@@ -1,0 +1,23 @@
+/*Tag Selector*/
+body{
+    font-family: Verdana,
+    Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    background-color: beige;
+}
+/*Class Selector*/
+.p1{
+    color: black;
+    text-align: center;
+}
+
+.h1{
+    color: black;
+    text-align: center;
+}
+
+/*ID Selector*/
+#p2{
+    color: black;
+    text-align: center;
+}
